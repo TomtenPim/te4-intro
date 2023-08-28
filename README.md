@@ -1,6 +1,8 @@
 # te4-intro
 
-Uppgiften är att skapa ett interaktivt CV eller en interaktiv historia om dig själv. Det blir en start för att börja skriva och fundera hur du ska presentera dig sjäv. Du visar samtidigt upp dina färdigheter.
+Uppgiften är att skapa ett interaktivt CV eller en interaktiv historia om dig själv (om den är verklighets- baserad/relaterad/orimlig/hittepå är upp till dig). Oavsett så är du huvudpersonen i någon form.
+
+Det blir en start för att börja skriva och fundera hur du ska presentera dig själv. Du visar samtidigt upp dina färdigheter.
 
 För det faktiska skrivandet så ta hjälp av en [LLM](https://en.wikipedia.org/wiki/Large_language_model) som [ChatGPT](https://chat.openai.com/). Ingen ursäkt att fastna på att skriva.
 
