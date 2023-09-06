@@ -1,15 +1,17 @@
 import './style.css'
-import javascriptLogo from './javascript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.js'
+
+var str = 8
+var dex = 8
+var con = 8
+var int = 8
+var wis = 8
+var cha = 8
 
 document.querySelector('#app').innerHTML = `
-  <div>
-    <h1>Simon Mikael Ågren</h1>
-  </div>
-  <div id=pnmr>
-    +4673 073 85 80
-  </div>
+  <section id=titel>
+    <h1>Simon den [RADERAT]</h1>
+  </section> 
 `
+
 
 setupCounter(document.querySelector('#counter'))
