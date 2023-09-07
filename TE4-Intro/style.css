@@ -87,9 +87,9 @@ button:focus-visible {
   list-style: none;
 }
 
-/*#answerfield{
+#answerfield{
   display: none;
-}*/
+}
 
 @media (prefers-color-scheme: light) {
   :root {

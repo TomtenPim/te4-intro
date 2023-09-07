@@ -11,29 +11,18 @@ document.querySelector('#app').innerHTML = `
     <h1>Simon den ${titel} </h1>
   </section> 
 
-  <div id=startknapp>
-    <button onclick="" id=start> Start </button>
+  <div id="startbutton">
+    <button id="start"> Start </button>
   </div>
-  <div id=spel>
+  <div id="game">
 
     <ul id="storylist"><ul>
 
-    <div id=answerfield>
-      <input id=svar></input>
-      <button id=skicka>✔</button> 
+    <div id="answerfield">
+      <input id="answer"></input>
+      <button id="send">✔</button> 
     </div>
   </div>
-
-  <script>
-  function started(){
-    console.log("du kom hit i alla fall")
-    var start = document.getElementById("startknapp")
-    var svar = document.getElementById("svarsfält")
-  
-    start.style.display = "none"
-    svar.style.display = "block"  
-  }
-  </script>
 `
 
 game(document.querySelector('#app'))
