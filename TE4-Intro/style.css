@@ -83,6 +83,14 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+#storylist{
+  list-style: none;
+}
+
+/*#answerfield{
+  display: none;
+}*/
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
